@@ -1,6 +1,6 @@
 # iOS-Developer-Portfolio
 
-## [Oulun Kulttuuri](https://github.com/brittanyarima/Steps)
+## [Oulun Kulttuuri](https://github.com/hannale1892/Oulun-Kulttuuri)
 [`📲 Available on the App Store`](https://apps.apple.com/fi/app/oulun-kulttuuri/id6499074694?platform=iphone)
 
 Steps is a step counting app built with SwiftUI and utilizing HealthKit. This was a fun app to build! The home screen has a fun visual of how close the user is to their goal. The detail screen is built with a custom circle graph and a Swift Charts bar chart to show the user their weekly steps. The Awards tab encourages the user to keep taking steps to unlock awards each week. The Settings tab gives the user the option to change their daily steps goal and to enable or disable notifications. Check out more details in this repo at the link above!
