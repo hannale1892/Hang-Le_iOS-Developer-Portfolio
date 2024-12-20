@@ -44,7 +44,7 @@ Steps is a step counting app built with SwiftUI and utilizing HealthKit. This wa
 Steps is a step counting app built with SwiftUI and utilizing HealthKit. This was a fun app to build! The home screen has a fun visual of how close the user is to their goal. The detail screen is built with a custom circle graph and a Swift Charts bar chart to show the user their weekly steps. The Awards tab encourages the user to keep taking steps to unlock awards each week. The Settings tab gives the user the option to change their daily steps goal and to enable or disable notifications. Check out more details in this repo at the link above!
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72708611/226179005-8434cc63-302b-43c9-bcd8-74f98e8dd7fa.png" width="200"/>
+<img src="https://user-images.githubusercontent.com/72708611/226179005-8434cc63-302b-43c9-bcd8-74f98e8dd7fa.png" width="1000"/>
 
 </p>
 
