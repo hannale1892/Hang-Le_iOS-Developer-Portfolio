@@ -41,7 +41,7 @@ Steps is a step counting app built with SwiftUI and utilizing HealthKit. This wa
 
 ## [Restaurants Near Me](https://github.com/hannale1892/RestaurantNearMe)
 
-The API was fetched based on user's current coordinates, to show nearby restaurants.
+The API was fetched form Wolt based on user's current coordinates, to show nearby restaurants.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72708611/226179005-8434cc63-302b-43c9-bcd8-74f98e8dd7fa.png" width="1200"/>
@@ -53,4 +53,3 @@ The API was fetched based on user's current coordinates, to show nearby restaura
 - 🗺️ MapKit
 - 🗂️ MVC
 - {} JSON API
-- 💾 App Storage
