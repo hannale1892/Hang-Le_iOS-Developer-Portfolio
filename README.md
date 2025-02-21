@@ -1,6 +1,28 @@
 # iOS-Developer-Portfolio
 
-## [Oulun Kulttuuri](https://github.com/hannale1892/Oulun-Kulttuuri)
+## Oulun Kartta
+[`📲 Available on the App Store`](https://apps.apple.com/app/oulun-kartta/id6742150148)
+
+Steps is a step counting app built with SwiftUI and utilizing HealthKit. This was a fun app to build! The home screen has a fun visual of how close the user is to their goal. The detail screen is built with a custom circle graph and a Swift Charts bar chart to show the user their weekly steps. The Awards tab encourages the user to keep taking steps to unlock awards each week. The Settings tab gives the user the option to change their daily steps goal and to enable or disable notifications. Check out more details in this repo at the link above!
+
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/422ae231-64bd-42ef-ad8c-4316de707ce0" width="1200"/>
+</p>
+
+
+**Tech Used**
+- 🎨 SwiftUI
+- ❤️‍🩹 HealthKit
+- 📊 Swift Charts
+- 🔔 Local Notifications
+- 🗂️ MVVM
+- 💾 App Storage
+
+
+
+
+## Oulun Kulttuuri
 [`📲 Available on the App Store`](https://apps.apple.com/fi/app/oulun-kulttuuri/id6499074694?platform=iphone)
 
 Steps is a step counting app built with SwiftUI and utilizing HealthKit. This was a fun app to build! The home screen has a fun visual of how close the user is to their goal. The detail screen is built with a custom circle graph and a Swift Charts bar chart to show the user their weekly steps. The Awards tab encourages the user to keep taking steps to unlock awards each week. The Settings tab gives the user the option to change their daily steps goal and to enable or disable notifications. Check out more details in this repo at the link above!
@@ -20,12 +42,14 @@ Steps is a step counting app built with SwiftUI and utilizing HealthKit. This wa
 
 
 
-## [LeMitts Recipe](https://github.com/hannale1892/LeMitts-app)
+
+## LeMitts Recipe
 
 Steps is a step counting app built with SwiftUI and utilizing HealthKit. This was a fun app to build! The home screen has a fun visual of how close the user is to their goal. The detail screen is built with a custom circle graph and a Swift Charts bar chart to show the user their weekly steps. The Awards tab encourages the user to keep taking steps to unlock awards each week. The Settings tab gives the user the option to change their daily steps goal and to enable or disable notifications. Check out more details in this repo at the link above!
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72708611/219945426-eccf977f-998f-46fb-afc0-c454857de6ae.png" width="1200"/>
+<img src="https://github.com/user-attachments/assets/b16eb264-8fc8-469c-b5a9-01b9ee76c0a8" width="1200"/>
+
 
 </p>
 
@@ -39,13 +63,13 @@ Steps is a step counting app built with SwiftUI and utilizing HealthKit. This wa
 
 
 
-## [Restaurants Near Me](https://github.com/hannale1892/RestaurantNearMe)
+
+## Restaurants Near Me
 
 The API was fetched form Wolt based on user's current coordinates, to show nearby restaurants.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72708611/226179005-8434cc63-302b-43c9-bcd8-74f98e8dd7fa.png" width="1200"/>
-
+<img src="https://github.com/user-attachments/assets/29fec145-e510-4a67-84c5-07d6fea067e0" width="1200"/>
 </p>
 
 **Tech Used**
