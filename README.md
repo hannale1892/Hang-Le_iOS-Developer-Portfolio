@@ -3,7 +3,7 @@
 ## Oulun Kartta
 [`📲 Available on the App Store`](https://apps.apple.com/app/oulun-kartta/id6742150148)
 
-Steps is a step counting app built with SwiftUI and utilizing HealthKit. This was a fun app to build! The home screen has a fun visual of how close the user is to their goal. The detail screen is built with a custom circle graph and a Swift Charts bar chart to show the user their weekly steps. The Awards tab encourages the user to keep taking steps to unlock awards each week. The Settings tab gives the user the option to change their daily steps goal and to enable or disable notifications. Check out more details in this repo at the link above!
+Oulun Kartta was built based on Oulun Kaupunki's open data source. The data that shows public services and attractions has a complex structure, which includes 13 categories, and 89 sub categories. The app's goals are to show annotations for places and polylines for tracks om map, also to navigate to the destination.
 
 
 <p align="center">
