@@ -3,7 +3,7 @@
 ## Oulun Kartta
 [`📲 Available on the App Store`](https://apps.apple.com/app/oulun-kartta/id6742150148)
 
-Oulun Kartta was built based on Oulun Kaupunki's open data source. The data that shows public services and attractions has a complex structure, which includes 13 categories, and 89 sub categories. The app's goals are to show annotations for places and polylines for tracks om map, also to navigate to the destination.
+Oulun Kartta was built based on Oulun Kaupunki's open data source. The data that shows public services and attractions has a complex structure, which includes 13 categories, and 89 sub categories. The app's goals are to show annotations for places and polylines for tracks om map, by transforming its unique coordinate system to WGS 84, and also to navigate to the destination.
 
 
 <p align="center">
@@ -13,11 +13,12 @@ Oulun Kartta was built based on Oulun Kaupunki's open data source. The data that
 
 **Tech Used**
 - 🎨 SwiftUI
-- ❤️‍🩹 HealthKit
+- 🎨 UIKit
+- ❤️‍🩹 MapKit
 - 📊 Swift Charts
-- 🔔 Local Notifications
 - 🗂️ MVVM
 - 💾 App Storage
+- <> XML API
 
 
 
