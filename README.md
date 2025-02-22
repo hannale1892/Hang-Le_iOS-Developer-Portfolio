@@ -19,7 +19,7 @@ Oulun Kartta was built based on Oulun Kaupunki's open data source. The data that
 - 💾 Storage (UserDefault)
 - <> XML API
 
-< br / >
+<br>
 
 ## Oulun Kulttuuri
 [`📲 Available on the App Store`](https://apps.apple.com/fi/app/oulun-kulttuuri/id6499074694?platform=iphone)
@@ -35,7 +35,7 @@ The JSON API for this app was provided by ZoneAtlas open data. Data was prensent
 - 🎨 SwiftUI
 - {} JSON API
 
-< br / >
+<br>
 
 ## LeMitts Recipe
 
@@ -50,7 +50,7 @@ LeMitts app allows users to take photo, store and organize their favourite recip
 - 🎨 SwiftUI
 - 💾 App Storage
 
-< br / >
+<br>
 
 ## Restaurants Near Me
 
