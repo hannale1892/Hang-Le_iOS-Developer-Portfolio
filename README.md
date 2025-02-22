@@ -1,5 +1,7 @@
 # iOS-Developer-Portfolio
 
+👋 Hi! I'm a self-taught freelance iOS Engineer. Here's a bit of what I've been working on.
+
 ## Oulun Kartta
 [`📲 Available on the App Store`](https://apps.apple.com/app/oulun-kartta/id6742150148)
 
