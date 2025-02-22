@@ -22,7 +22,7 @@ Oulun Kartta was built based on Oulun Kaupunki's open data source. The data that
 ## Oulun Kulttuuri
 [`📲 Available on the App Store`](https://apps.apple.com/fi/app/oulun-kulttuuri/id6499074694?platform=iphone)
 
-The JSON API for this app was provided by ZoneAtlas open data. Data was prensented in many shapes such as grid, list, vertical and image scrollview. The locations of the attractions can also be navivated and view on map. Events data were regulately updated until 2023, therefore event tab is not available anymore on the app.
+The JSON API for this app was provided by ZoneAtlas open data. Data was prensented in many shapes such as grid, list, vertical and image scrollview. The locations of the attractions can also be navivated and view on map. Events data were regulately updated until 2023, therefore event tab view is not available anymore on the app.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/03eaffc3-9a9c-44ac-83eb-d901f2c2bde3" width="1200"/>
@@ -31,39 +31,26 @@ The JSON API for this app was provided by ZoneAtlas open data. Data was prensent
 
 **Tech Used**
 - 🎨 SwiftUI
-- ❤️‍🩹 HealthKit
-- 📊 Swift Charts
-- 🔔 Local Notifications
-- 🗂️ MVVM
--- {} JSON API
-
-
+- {} JSON API
 
 
 ## LeMitts Recipe
 
-Steps is a step counting app built with SwiftUI and utilizing HealthKit. This was a fun app to build! The home screen has a fun visual of how close the user is to their goal. The detail screen is built with a custom circle graph and a Swift Charts bar chart to show the user their weekly steps. The Awards tab encourages the user to keep taking steps to unlock awards each week. The Settings tab gives the user the option to change their daily steps goal and to enable or disable notifications. Check out more details in this repo at the link above!
+LeMitts app allows users to take photo, store and organize their favourite recipes onto their devices. 
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/b16eb264-8fc8-469c-b5a9-01b9ee76c0a8" width="1200"/>
-
 
 </p>
 
 **Tech Used**
 - 🎨 SwiftUI
-- ❤️‍🩹 HealthKit
-- 📊 Swift Charts
-- 🔔 Local Notifications
-- 🗂️ MVVM
 - 💾 App Storage
-
-
 
 
 ## Restaurants Near Me
 
-The API was fetched form Wolt based on user's current coordinates, to show nearby restaurants.
+The JSON API was fetched form Wolt based on user's current coordinates, to show nearby restaurants.
 
 <p align="center">
 <img src="https://github.com/user-attachments/assets/29fec145-e510-4a67-84c5-07d6fea067e0" width="1200"/>
