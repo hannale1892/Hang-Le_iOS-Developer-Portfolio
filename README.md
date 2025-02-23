@@ -1,7 +1,9 @@
 # iOS-Developer-Portfolio
 
 ### 👋 Hi! I'm a self-taught freelance/indie iOS Engineer. Here's a bit of what I've been working on.
+
  <img src="https://github.com/user-attachments/assets/6b26c082-558a-4e79-8df7-b86ecd84fff4" width="100"/>  
+
 ## Oulun Kartta
 [`📲 Available on the App Store`](https://apps.apple.com/app/oulun-kartta/id6742150148)
 
@@ -40,6 +42,9 @@ The JSON API for this app was provided by ZoneAtlas open data. Data was prensent
 - {} JSON API
 
 <br>
+
+
+<img src="https://github.com/user-attachments/assets/97fdee07-999e-4b21-82c6-26a915332ac7" width="100"/>  
 
 ## LeMitts Recipe
 
