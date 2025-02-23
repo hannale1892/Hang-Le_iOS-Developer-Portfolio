@@ -23,6 +23,8 @@ Oulun Kartta was built based on Oulun Kaupunki's open data source. The data that
 
 <br>
 
+ <img src="https://github.com/user-attachments/assets/eb617e65-7eab-4bd4-9f16-a949dcea7de3" width="100"/>  
+
 ## Oulun Kulttuuri
 [`📲 Available on the App Store`](https://apps.apple.com/fi/app/oulun-kulttuuri/id6499074694?platform=iphone)
 
