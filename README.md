@@ -33,7 +33,7 @@ Oulun Kartta was built based on Oulun Kaupunki's open data source. The data that
 The JSON API for this app was provided by ZoneAtlas open data. Data was prensented in many shapes such as grid, list, vertical and image scrollview. The attractions can also be navigated and viewed on map. Events data were updated until 2023, therefore event tab view is not available anymore on the app.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/03eaffc3-9a9c-44ac-83eb-d901f2c2bde3" width="1200"/>
+<img src="https://github.com/user-attachments/assets/d55c5333-9e96-4d42-abc6-304e249b0db2" width="1200"/>
 
 </p>
 
