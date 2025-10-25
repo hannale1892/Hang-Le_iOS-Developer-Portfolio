@@ -2,6 +2,33 @@
 
 ### 👋 Hi! I'm a self-taught freelance/indie iOS Engineer. Here's a bit of what I've been working on.
 
+ <img src="https://github.com/user-attachments/assets/9f1e6f0b-fb2c-4733-a418-5226ad32aac8" width="100"/>  
+
+## Hobbic
+Soon to be on AppStore
+
+Hobbic is an iOS app that connects people through local hobby and activity-based groups. Users can discover, create, and join groups based on shared interests such as hiking, board games, sports, crafts, and more — starting with Finland.
+<img width="6407" height="2732" alt="Hobbic folio" src="https://github.com/user-attachments/assets/efae086b-64ab-4618-9063-6edb7d2d22c5" />
+
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/422ae231-64bd-42ef-ad8c-4316de707ce0" width="1200"/>
+</p>
+
+
+**Tech Used**
+- 🎨 SwiftUI
+- 🎨 UIKit
+- 📍 MapKit
+- 🗂️ MVVM
+- 💾 Storage (UserDefault)
+- <> XML API
+
+<br>
+
+ <img src="https://github.com/user-attachments/assets/eb617e65-7eab-4bd4-9f16-a949dcea7de3" width="100"/>  
+
+
  <img src="https://github.com/user-attachments/assets/6b26c082-558a-4e79-8df7-b86ecd84fff4" width="100"/>  
 
 ## Oulun Kartta
