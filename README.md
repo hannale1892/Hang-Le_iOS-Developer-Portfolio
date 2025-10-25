@@ -8,11 +8,9 @@
 Soon to be on AppStore
 
 Hobbic is an iOS app that connects people through local hobby and activity-based groups. Users can discover, create, and join groups based on shared interests such as hiking, board games, sports, crafts, and more — starting with Finland.
-<img width="6407" height="2732" alt="Hobbic folio" src="https://github.com/user-attachments/assets/efae086b-64ab-4618-9063-6edb7d2d22c5" />
-
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/422ae231-64bd-42ef-ad8c-4316de707ce0" width="1200"/>
+<img src="https://github.com/user-attachments/assets/11b9a78b-ed4a-46b5-814c-9c21e38bc3c6" width="1200"/>
 </p>
 
 
