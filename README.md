@@ -10,17 +10,46 @@ Soon to be on AppStore
 Hobbic is an iOS app that connects people through local hobby and activity-based groups. Users can discover, create, and join groups based on shared interests such as hiking, board games, sports, crafts, and more — starting with Finland.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/11b9a78b-ed4a-46b5-814c-9c21e38bc3c6" width="1200"/>
+<img src="https://github.com/user-attachments/assets/dc6e501c-26b8-4f8b-9ccf-c04bdb8c77e6" width="1200"/>
 </p>
+
+**Overview**
+
+Hobbic helps people make real-life connections by turning hobbies into communities.
+The app makes it easy to:
+
+Find local events and groups nearby
+
+Create your own group or event with title, description, date, location, and optional image
+
+Chat and get notified about upcoming activities
+
+Customize your profile with city, age, and interests
+
+
+**📱 Screens (Current Progress)**
+
+🏠 Home / Events: Displays nearby or upcoming events
+
+🔍 Explore: Search and filter hobby groups by category
+
+➕ Create Event: Form to add new events (title, body, category, date, location, image)
+
+💬 Inbox: Chat and notifications section
+
+👤 Profile: Manage user info and preferences
 
 
 **Tech Used**
-- 🎨 SwiftUI
-- 🎨 UIKit
-- 📍 MapKit
-- 🗂️ MVVM
-- 💾 Storage (UserDefault)
-- <> XML API
+
+- 🎨 Language:	Swift
+- 📍 Framework:	SwiftUI, MapKit, Combine
+- 🗂️ Backend:	Firebase (Firestore, Authentication, Storage)
+- Auth	Firebase Email Link Login
+- 💾 Database	Cloud Firestore
+- Storage	Firebase Storage (for images)
+- Maps	MKMapView (for event locations)
+- Other	MVVM architecture, async/await, Local caching with @AppStorage
 
 <br>
 
