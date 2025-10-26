@@ -53,10 +53,7 @@ Customize your profile with city, age, and interests
 
 <br>
 
- <img src="https://github.com/user-attachments/assets/eb617e65-7eab-4bd4-9f16-a949dcea7de3" width="100"/>  
-
-
- <img src="https://github.com/user-attachments/assets/6b26c082-558a-4e79-8df7-b86ecd84fff4" width="100"/>  
+<img src="https://github.com/user-attachments/assets/e9f1aa35-7945-4aee-ab4d-fded997037c0" width="100"/>  
 
 ## Oulun Kartta
 [`📲 Available on the App Store`](https://apps.apple.com/fi/app/oulun-kartta/id6742150148?platform=iphone)
