@@ -2,9 +2,10 @@
 
 ### 👋 Hi! I'm a self-taught freelance/indie iOS Engineer. Here's a bit of what I've been working on.
 
- <img src="https://github.com/user-attachments/assets/dc41a974-9d1f-46e5-8d8c-19649e9c7f81" width="100"/> 
 
-## Hobbic
+<img src="https://github.com/user-attachments/assets/e9f1aa35-7945-4aee-ab4d-fded997037c0" width="100"/>  
+
+## 🧩 Hobbic — Find and Join Local Hobby Groups
 Soon to be on AppStore
 
 Hobbic is an iOS app that connects people through local hobby and activity-based groups. Users can discover, create, and join groups based on shared interests such as hiking, board games, sports, crafts, and more — starting with Finland.
@@ -13,47 +14,56 @@ Hobbic is an iOS app that connects people through local hobby and activity-based
 <img src="https://github.com/user-attachments/assets/b0f25acf-06e3-4eb0-a1ee-87a42385e16e" width="1200"/>
 </p>
 
-**Overview**
 
-Hobbic helps people make real-life connections by turning hobbies into communities.
-The app makes it easy to:
+**🏗️ Overview**
 
-Find local events and groups nearby
-
-Create your own group or event with title, description, date, location, and optional image
-
-Chat and get notified about upcoming activities
-
-Customize your profile with city, age, and interests
-
-
-**📱 Screens (Current Progress)**
-
-🏠 Home / Events: Displays nearby or upcoming events
-
-🔍 Explore: Search and filter hobby groups by category
-
-➕ Create Event: Form to add new events (title, body, category, date, location, image)
-
-💬 Inbox: Chat and notifications section
-
-👤 Profile: Manage user info and preferences
+ Hobbic helps people make real-life connections by turning hobbies into communities. The app makes it easy to:
+ 
+ - Find local events and groups nearby
+ 
+ - Create your own group or event with title, description, date, location, and optional image
+ 
+ - Chat and get notified about upcoming activities
+ 
+ - Customize your profile with city, age, and interests
 
 
-**Tech Used**
 
-- 🎨 Language:	Swift
-- 📍 Framework:	SwiftUI, MapKit, Combine
-- 🗂️ Backend:	Firebase (Firestore, Authentication, Storage)
+**🧰 Tech Stack**
+
+- Language:	Swift
+
+- Framework:	SwiftUI, MapKit, Combine
+
+- Backend:	Firebase (Firestore, Authentication, Storage)
+
 - Auth	Firebase Email Link Login
-- 💾 Database	Cloud Firestore
+
+- Database	Cloud Firestore
+
 - Storage	Firebase Storage (for images)
+
 - Maps	MKMapView (for event locations)
+
 - Other	MVVM architecture, async/await, Local caching with @AppStorage
 
-<br>
 
-<img src="https://github.com/user-attachments/assets/e9f1aa35-7945-4aee-ab4d-fded997037c0" width="100"/>  
+**🧑‍💻 My Role**
+
+I am developing Hobbic as a solo iOS developer — responsible for the design, architecture, UI, and backend integration.
+This project showcases:
+
+ - My ability to build a complete app from scratch
+
+ - Knowledge of Firebase integration and authentication flow
+
+ - Experience with modern SwiftUI patterns
+
+ - Practical UI/UX design thinking for real-world apps
+
+
+<br>
+<img src="https://github.com/user-attachments/assets/6b26c082-558a-4e79-8df7-b86ecd84fff4" width="100"/>  
 
 ## Oulun Kartta
 [`📲 Available on the App Store`](https://apps.apple.com/fi/app/oulun-kartta/id6742150148?platform=iphone)
