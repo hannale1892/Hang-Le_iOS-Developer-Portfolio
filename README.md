@@ -2,7 +2,7 @@
 
 ### 👋 Hi! I'm a self-taught freelance/indie iOS Engineer. Here's a bit of what I've been working on.
 
- <img src="https://github.com/user-attachments/assets/9f1e6f0b-fb2c-4733-a418-5226ad32aac8" width="100"/>  
+ <img src="https://github.com/user-attachments/assets/dc41a974-9d1f-46e5-8d8c-19649e9c7f81" width="100"/> 
 
 ## Hobbic
 Soon to be on AppStore
@@ -10,7 +10,7 @@ Soon to be on AppStore
 Hobbic is an iOS app that connects people through local hobby and activity-based groups. Users can discover, create, and join groups based on shared interests such as hiking, board games, sports, crafts, and more — starting with Finland.
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/dc6e501c-26b8-4f8b-9ccf-c04bdb8c77e6" width="1200"/>
+<img src="https://github.com/user-attachments/assets/b0f25acf-06e3-4eb0-a1ee-87a42385e16e" width="1200"/>
 </p>
 
 **Overview**
